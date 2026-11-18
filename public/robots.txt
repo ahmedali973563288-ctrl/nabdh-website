@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Sitemap: https://nabdh-7dvy5ysk.manus.space/sitemap.xml
